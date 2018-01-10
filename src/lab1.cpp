@@ -1,6 +1,6 @@
 #include "eecs230.h"
 
 int main() {
-//random comment
+//random funny comment
     cout << "Hello Teddy!\n";
 }
